@@ -80,10 +80,10 @@ The principle: separate what is **proven**, what is **likely**, and what is **un
 ![Executive Overview](Screen_Shots/Page_1.jpg)
 
 **Growth Opportunities:** where the upside is.
-![Growth Opportunities](screenshots/2_growth_opportunities.jpg)
+![Growth Opportunities](Screen_Shots/Page_2.jpg)
 
 **Risk Analysis:** who is suspended or dormant, and why.
-![Risk Analysis](screenshots/3_risk_analysis.jpg)
+![Risk Analysis](Screen_Shots/Page_3.jpg)
 
 **Segmentation & AI:** who the customers are and where revenue is at risk.
-![Segmentation & AI](screenshots/4_segmentation_ai.jpg)
+![Segmentation & AI](Screen_Shots/Page_4.jpg)
