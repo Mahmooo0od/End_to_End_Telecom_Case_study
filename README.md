@@ -92,7 +92,7 @@ The principle: separate what is **proven**, what is **likely**, and what is **un
 
 ## 👤 Author
 
-**Mahmooood**  
+**Mahmoud Mamdouh Abdulkhalik**  
 Data &Analytics Engineer  
 SQL Server | Power Bi | Python | Machine Learning  
 GitHub: https://github.com/MahmoooOod
