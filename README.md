@@ -87,3 +87,18 @@ The principle: separate what is **proven**, what is **likely**, and what is **un
 
 **Segmentation & AI:** who the customers are and where revenue is at risk.
 ![Segmentation & AI](Screen_Shots/Page_4.jpg)
+
+---
+
+## 👤 Author
+
+**Mahmooood**  
+Data &Analytics Engineer  
+SQL Server | Power Bi | Python | Machine Learning  
+GitHub: https://github.com/MahmoooOod
+
+---
+
+## ✔ Project Status
+
+🎉 **Project Fully Completed & Delivered**
