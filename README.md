@@ -77,7 +77,7 @@ The principle: separate what is **proven**, what is **likely**, and what is **un
 
 ## 7. Dashboard pages
 **Executive Overview:** how big, how valuable, what changed.
-![Executive Overview](Screenshots/Page_1.jpg)
+![Executive Overview](Screen Shots/Page_1.jpg)
 
 **Growth Opportunities:** where the upside is.
 ![Growth Opportunities](screenshots/2_growth_opportunities.jpg)
